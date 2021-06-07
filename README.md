@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Rimestor
+- 👀 I’m interested in Addons / Scripting on Minecraft
+- 🌱 I’m currently learning C++
